@@ -1,0 +1,133 @@
+/* iphone 6/7/8 */
+@media screen  and (min-width:375px){
+    .content-card{
+        height: 550px;
+    }
+
+    .number-bt{
+        width: 245px;
+    }
+
+    .main-img{
+        width: 200px;
+        height: 200px;
+    }
+
+    .li-bt1{
+        width: 320px;
+        height: 35px;
+        font-size: 13px;
+    }
+
+    .li-bt2{
+        width: 320px;
+        height: 35px;
+        position: absolute;
+        right: 10px;
+        border-radius: 10px;
+        bottom: 5px;
+        font-size: 13px;
+    
+    }
+
+    .gm-bt2{
+        position: absolute;
+        text-align: center;
+        height: 35px;
+        width: 320px;
+    }
+
+    .big-bt{
+        width: 70px;
+        height: 85px;
+        bottom: 70px;
+    }
+
+}
+
+/* iphone 6/7/8 plus */
+@media screen  and (min-width:414px){
+    .content-card{
+        height: 550px;
+        width: auto;
+    }
+
+    .main-img{
+        width: 200px;
+        height: 200px;
+    }
+
+    .number-bt{
+        width: 280px;
+    }
+
+    .li-bt1{
+        width: 320px;
+        height: 35px;
+        font-size: 13px;
+    }
+
+    .li-bt2{
+        width: 320px;
+        height: 35px;
+        position: absolute;
+        right: 10px;
+        border-radius: 10px;
+        bottom: 5px;
+        font-size: 13px;
+    }
+
+    .gm-bt2{
+        position: absolute;
+        text-align: center;
+        height: 35px;
+        width: 320px;
+        font-size: 14px;
+    }
+    
+    .big-bt{
+        width: 70px;
+        height: 85px;
+        bottom: 70px;
+    } 
+
+}
+
+/* iphone x */
+@media screen  and (min-height:812px){
+    .content-card{
+        height: 605px;
+    }
+
+    .main-img{
+        width: 220px;
+        height: 220px;
+    }
+
+    .li-bt1{
+        width: 315px;
+        height: 45px;
+        font-size: 14px;
+    }
+
+    .li-bt2{
+        width: 315px;
+        height: 45px;
+        bottom: 0;
+        font-size: 14px;
+    }
+
+    .gm-bt2{
+        position: absolute;
+        text-align: center;
+        width: 315px;
+        height: 45px;
+        font-size: 14px;
+    }
+
+    .big-bt{
+        width: 70px;
+        height: 165px;
+        bottom: 70px;
+    } 
+}
