@@ -235,7 +235,7 @@ li{
 }
 
 .first{
-    color: rgb(46, 134, 193,0.8);
+    color: rgb(46, 134, 193, 1);
     position: absolute;
     text-align: center;
     top: 30px;
